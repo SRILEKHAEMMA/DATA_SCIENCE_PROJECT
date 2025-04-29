@@ -28,11 +28,16 @@ bash
 Copy
 Edit
 ├── notebooks/        # Jupyter Notebooks containing all code
+
+
 ├── LICENSE           # Project license
+
+
 └── README.md         # Project documentation
+
 All experiments, preprocessing, model training, and evaluation are organized within the notebooks/ folder.
 
-4. Key Methods and Approaches
+5. Key Methods and Approaches
 TF-IDF Vectorization for Logistic Regression and SVM
 
 fastText Embeddings with LSTM
